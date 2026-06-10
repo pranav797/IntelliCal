@@ -9,12 +9,7 @@ IntelliCal was collaboratively developed as a four-person University of Waterloo
 
 The application was produced through shared design, implementation, testing, documentation, and project-planning work. This portfolio copy does not claim that any one contributor independently created the full project.
 
-Before making this repository public, all contributors should agree on:
-
-- Public distribution of the source code
-- How individual contributions are described
-- Whether contributor profile links should be included
-- Whether a software license should be added
+All project team members approved the public distribution of this portfolio copy.
 
 ## Individual Contributions
 

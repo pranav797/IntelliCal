@@ -27,11 +27,11 @@ IntelliCal was developed as a four-person University of Waterloo course project 
 
 See [`AUTHORS.md`](AUTHORS.md) for project credits. This portfolio copy excludes course contracts, grading instructions, private wiki content, generated build files, and credentials.
 
+All project team members approved the public distribution of this portfolio copy.
+
 ## Academic Integrity
 
 This repository is shared for portfolio and educational reference purposes. Do not submit this project, its code, or closely derived work as your own coursework. Anyone using this repository is responsible for following their institution's academic-integrity policies.
-
-Public distribution should only occur with the approval of every project team member.
 
 ## Prerequisites
 
@@ -99,4 +99,4 @@ The project contains `MockDatabase` and `MockNutritionEstimationService` impleme
 - `local.properties` is ignored and must never be committed.
 - Never commit API keys, passwords, service-role keys, or real user data.
 - Run a secret scanner before publishing changes.
-- This repository intentionally contains no license. Add one only after all team members agree on distribution terms.
+- This repository intentionally contains no software license.
