@@ -1,0 +1,7 @@
+# Copy this file to local.properties and replace every placeholder.
+# local.properties is ignored by Git.
+
+sdk.dir=YOUR_ANDROID_SDK_PATH
+supabase.url=https://YOUR_PROJECT_REF.supabase.co
+supabase.key=YOUR_SUPABASE_ANON_KEY
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY
