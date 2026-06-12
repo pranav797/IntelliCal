@@ -11,6 +11,4 @@ The application was produced through shared design, implementation, testing, doc
 
 All project team members approved the public distribution of this portfolio copy.
 
-## Individual Contributions
 
-Add a factual contribution summary for each team member only after the team reviews and approves it. Do not infer contribution ownership from commit counts alone.
